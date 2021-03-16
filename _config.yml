@@ -90,5 +90,17 @@ friends: [
     {
         title: "GitHub·HideUsSaveUs",
         href: "http://HideUsSaveUs.github.io"
+    },{
+        title: "博客·仑质Penxil",
+        href: "http://benzencloudhk.xyz/"
+    },{
+        title: "博客·贰狐",
+        href: "https://www.aobacore.com/"
+    },{
+        title: "博客·鱼仙",
+        href: "http://fishroud.xyz/"
+    },{
+        title: "论坛·Dice!",
+        href: "https://forum.kokona.tech/"
     }
 ]
